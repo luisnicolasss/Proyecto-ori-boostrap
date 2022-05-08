@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+}
+
+nav {
+    background-color: black;
+}
+
+
+img {
+    box-shadow: 2px 4px 15px #000;
+    border-radius: 10px;
+}
+
+
+#separator-ribbon{
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+
+}
+
+
+#iconos i {
+    font-size: 26px;
+    padding: 0 8px;
+    color: white;
+    margin-top: 70px;
+    
+
+}
+
+.card{
+    transition: all ease-out 0.5s;
+    cursor: pointer;
+}
+
+.card:hover{
+    transform: scale(1.05);
+
+}
+
+.fondo-oso {
+    background: url(../img/oso.png);
+    width: 100%;
+    height: 700px;
+    margin-top: 20px;
+    
+    
+}
+
+.contenido-texto p{
+    margin-top:30%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+
