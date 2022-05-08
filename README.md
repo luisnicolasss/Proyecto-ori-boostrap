@@ -1,2 +1,2 @@
 # Proyecto-ori-boostrap
-Proyecto hecho de el videojuego Ori
+Proyecto hecho con Boostrap de el videojuego Ori
